@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
-**joao-rmc/joao-rmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joao-rmc/joao-rmc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em compartilhar coisas que eu fiz com e programação
+- 🌱 Atualmente estou aprendendo a programar sites
+- 👯 Procuro colaborar em programação
+- 🤔 Estou procurando ajuda com programação
+- 💬 Pergunte-me sobre oque eu sei fazer
+- 📫 Como entrar em contato comigo: me chame no whatssap 19 993178045
+- 😄 Pronomes: jao
+- ⚡ Curiosidade: Gosto muito de mexer em computador tenho uma experiencia de computador
 -->
